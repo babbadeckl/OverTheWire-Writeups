@@ -81,7 +81,6 @@ Well this looks familiar.... let's try to follow the same steps as before.
 Meh... no more leaked info... However, the hint "Not even Google will find it this time" directly tells us where we should look, namely in the robots.txt file.
 
 *"Robots.txt is a text file webmasters create to instruct web robots (typically search engine robots) how to crawl pages on their website. The robots.txt file is part of the the robots exclusion protocol (REP), a group of web standards that regulate how robots crawl the web, access and index content, and serve that content up to users. The REP also includes directives like meta robots, as well as page-, subdirectory-, or site-wide instructions for how search engines should treat links (such as “follow” or “nofollow”).
-
 In practice, robots.txt files indicate whether certain user agents (web-crawling software) can or cannot crawl parts of a website. These crawl instructions are specified by “disallowing” or “allowing” the behavior of certain (or all) user agents."* https://moz.com/learn/seo/robotstxt
 
 So let's see what's hidden there:
